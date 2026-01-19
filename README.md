@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhiramg2004
-- 👀 I’m interested in sleeping 
-- 🌱 I’m currently learning rubicscube 5 by 5
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning chess endgames
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me abhiramg_abhi
 
